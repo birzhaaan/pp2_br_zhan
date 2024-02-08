@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 txt = "Hello World"
+=======
+txt = "Hello World"
+>>>>>>> d44050e62af6281f152a02f37a5ca5ae4cc453a5
 x = txt[2:5]
